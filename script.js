@@ -2,13 +2,13 @@
 
 const stuff =[
     {
-        name: 'Rain',
+        name: 'Winter',
         likes: 0},
     {
-        name: 'Dark',
+        name: 'Autumn',
         likes: 0},
     {
-        name: 'Cold',
+        name: 'Spring',
         likes: 0},
 ]
 
